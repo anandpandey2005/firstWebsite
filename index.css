@@ -1,0 +1,21 @@
+#name{
+ color: blueviolet;
+ background-color: black;
+}
+.highlight{
+    display: inline;
+ color: yellow;
+ background-color: black;
+}
+#logo{
+    background-color: black;
+}
+#project{
+    background-color: rgb(121, 139, 139);
+}
+a:hover{
+    background-color: blueviolet;
+}
+p:hover{
+    background-color: antiquewhite;
+}
